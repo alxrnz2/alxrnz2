@@ -1,8 +1,8 @@
 - 👋 Hey, I’m Alex: @alxrnz2
-- 👀 I’m interested in web3, the future of work, and backcountry adventures
-- 🌱 I’m currently learning web3 tools across EVM blockchains and Solana
-- 💞️ I’m looking to collaborate on web3 applications
-- 📫 How to reach me: alexander.rienzie@gmail.com
+- 👀 Interested in web3, the future of work, and backcountry adventures
+- 🌱 Currently learning web3 tools across EVM blockchains and Solana
+- 💞️ Looking to collaborate on web3 applications
+- 📫 How to reach me: alex.rienzie@gmail.com
 
 <!---
 alxrnz2/alxrnz2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
