@@ -1,4 +1,4 @@
-Creating National Park artwork: the [Firepit Crew](firepitcrew.org). Experimenting with ERC1155 NFTs, in addition to physical merch sold in stores in / around select parks. Also using AI models like Dalle and Midjourney for layers in new designs.
+Creating National Park artwork: the [Firepit Crew](https://www.firepitcrew.org/). Experimenting with ERC1155 NFTs, in addition to physical merch sold in stores in / around select parks. Also using AI models like Dalle and Midjourney for layers in new designs.
 
 Contact via [Instagram](https://www.instagram.com/alexrienzie/) or [LinkedIn](https://www.linkedin.com/in/arienzie).
 
